@@ -7,4 +7,4 @@ Users can create their own topics, quizzes for those topics, and flashcards for 
 * React
 * Redux
 
-### [Live](https://flashcards-redux-codecademy.netlify.app/)
+### Live - [Flashcards](https://flashcards-redux-codecademy.netlify.app/)
